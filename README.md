@@ -1,6 +1,6 @@
 # TestContainers pgvecto.rs test
 
-This is a demo project to show that `PostgresContainer` fails to launch when using `tensorchord/pgvecto-rs:pg16-v0.3.0`.
+This is a demo project to show that `PostgresContainer` fails to launch when using `tensorchord/pgvecto-rs:pg16-v0.3.0`. Related issue: <https://github.com/testcontainers/testcontainers-python/issues/703>
 
 ## How to run
 
