@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-testcontainers = "4.8.1"
+testcontainers = "4.8.2"
 pytest = "8.3.3"
 sqlalchemy = "2.0.35"
 psycopg2 = "2.9.9"
